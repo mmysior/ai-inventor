@@ -1,0 +1,39 @@
+﻿1;Ciężar obiektu ruchomego
+2;Ciężar obiektu nieruchomego
+3;Długość obiektu ruchomego
+4;Długość obiektu nieruchomego
+5;Powierzchnia obiektu ruchomego
+6;Powierzchnia obiektu nieruchomego
+7;Obiętość obiektu ruchomego
+8;Objętość obiektu nieruchomego
+9;Prędkość
+10;Siła
+11;Naprężenie, ciśnienie
+12;Kształt
+13;Stabilność struktury obiektu
+14;Wytrzymałość
+15;Czas działania obiektu ruchomego
+16;Czas działania obiektu nieruchomego
+17;Temperatura
+18;Jasność (promieniowanie)
+19;Nakłady energii na ruch obiektu
+20;Nakłady energii przy nieruchomym obiektcie
+21;Moc
+22;Straty energii
+23;Straty substancji
+24;Straty informacji
+25;Straty czasu
+26;Ilość substancji
+27;Niezawodność
+28;Dokładnośc pomiaru
+29;Dokładnośc wytwarzania
+30;Szkodliwe czynniki działające na obiekt
+31;Szkodliwe czynniki samego obiektu
+32;Łatwosc wytwarzania
+33;Łatwość eksploatacji
+34;Łatwość naprawy
+35;Łatwość adaptacji, uniwersalność
+36;Złożoność ustroju
+37;Trudność kontroli i pomiaru
+38;Stopień automatyzacji
+39;Wydajność
